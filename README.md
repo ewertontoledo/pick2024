@@ -44,5 +44,6 @@ Repositório Público dos Links do LinkedIn dos participantes do [PICK - 2024](h
 20. [Erick Davi M. Pessanha](https://www.linkedin.com/in/erick-davi-morgade-pessanha-53711120/)
 21. [Michael de Souza Marcos](https://www.linkedin.com/in/michaelsmarcos/)
 22. [Paulo Henrique Pereira](https://www.linkedin.com/in/p4ulohp/)
+23. [Ewerton Toled](https://www.linkedin.com/in/ewerton-toledo-3689b52aa/)
 
 
